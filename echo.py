@@ -1,2 +1,3 @@
-print("simple hello from python and git")
+#!/usr/bin/env python3
 
+print('Hello World!')
